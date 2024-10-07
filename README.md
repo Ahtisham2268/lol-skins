@@ -13,8 +13,8 @@
 To use the skins, simply download the files and follow the instructions below:
 
 1. Clone or download the repository:
-    ```bash
-    git clone [https://github.com/Ahtisham2268/lol-skins.git](https://github.com/Ahtisham2268/lol-skins.git)
+   ```bash
+   git clone https://github.com/Ahtisham2268/lol-skins.git
     ```
 2. Browse through the folders to find the skins you're interested in. 🔍
 3. **Recommended Tool:** Use **CSLol-Manager** to easily install and manage the skins in your game. You can find it [here](https://github.com/LeagueToolkit/cslol-manager) for more details and installation instructions. 🔧
